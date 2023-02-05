@@ -1,0 +1,155 @@
+body {
+  color: #40514E;
+  margin: 0;
+  font-family: 'Noto Serif Ahom', serif;
+  text-align: center;
+}
+
+a:hover {
+  color: #EAF6F6;
+
+}
+
+h1 {
+  color: #44546E;
+  font-family: 'Mali', cursive;
+  font-size: 80px;
+  margin-top: 50px auto 0;
+}
+
+h2 {
+  color: #44546E;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+}
+
+h3 {
+  color: #1a2f50;
+  font-family: 'Montserrat', sans-serif;
+}
+
+hr {
+  border-color: #637da3;
+  border-style: dotted none none;
+  border-width: 5px;
+  height: 0;
+  width: 5%;
+}
+
+p {
+  line-height: 2;
+}
+
+.btn {
+  background: #647ca3;
+  background-image: -webkit-linear-gradient(top, #647ca3, #1a2f50);
+  background-image: -moz-linear-gradient(top, #647ca3, #1a2f50);
+  background-image: -ms-linear-gradient(top, #647ca3, #1a2f50);
+  background-image: -o-linear-gradient(top, #647ca3, #1a2f50);
+  background-image: linear-gradient(to bottom, #647ca3, #1a2f50);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: 'Montserrat', sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #7da6e3;
+  background-image: -webkit-linear-gradient(top, #7da6e3, #223f6b);
+  background-image: -moz-linear-gradient(top, #7da6e3, #223f6b);
+  background-image: -ms-linear-gradient(top, #7da6e3, #223f6b);
+  background-image: -o-linear-gradient(top, #7da6e3, #223f6b);
+  background-image: linear-gradient(to bottom, #7da6e3, #223f6b);
+  text-decoration: none;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 250px;
+  bottom: 300px;
+}
+
+.bottom-container {
+  background-color: #738FBA;
+  height: 180px;
+  /* padding pala dapat nilagay mo */
+}
+
+.contact-desc {
+  margin: 40px auto 60px;
+}
+
+.contact-me {
+  margin: 100px auto 100px;
+  width: 40%;
+}
+
+.footer-link {
+  color: #23406E;
+  display: inline-block;
+  margin: 50px 20px 40px;
+  text-decoration: none;
+}
+
+.image-css {
+  float: right;
+  margin-left: 30px;
+  width: 25%;
+}
+
+.image-html {
+  float: left;
+  margin-right: 30px;
+  width: 25%;
+}
+
+.name-copyright {
+  color: #EAF6F6;
+  font-size: 0.75rem;
+  margin: 0 auto 30px;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.profile {
+  margin: 60px auto 100px;
+  width: 35%;
+}
+
+.skills {
+  margin: 100px auto;
+}
+
+.skill-row {
+  line-height: 2;
+  margin: 100px auto;
+  text-align: left;
+  width: 50%;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 40px;
+}
+
+.top-container {
+  background-color: #92B4EC;
+  padding-top: 100px;
+  position: relative;
+}
+
+/* .html-desc {
+  clear: left;
+}
+
+.css-desc {
+  clear: right;
+} */
